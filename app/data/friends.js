@@ -65,7 +65,7 @@ module.exports = [
 	},
 	{
 		"name": "Lou Ritter",
-		"photo": "",
+		"photo": "https://www.mens-hairstyle.com/wp-content/uploads/2016/12/Top-Guys-Dark-Hair-2016.jpg",
 		"scores": [
 			"4",
 			"3",
@@ -81,7 +81,7 @@ module.exports = [
 	},
 	{
 		"name": "Jordan Biason",
-		"photo": "",
+		"photo": "https://s-media-cache-ak0.pinimg.com/736x/3c/27/ab/3c27ab3db891f1ba0aabaa99848bab3f.jpg",
 		"scores": [
 			"4",
 			"4",
