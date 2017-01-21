@@ -55,9 +55,6 @@ router.post('/api/friends', (req, res) => {
 	let match = friends[friendScores.indexOf(min)];
 	let user = new Friend(name, photo, scores);
 
-	console.log(min);
-	console.log(friendScores);
-	console.log(match);
 
 	friends.push(user);
 	res.json(match);
